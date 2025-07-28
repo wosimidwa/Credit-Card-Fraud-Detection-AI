@@ -1,2 +1,11 @@
 # Credit-Card-Fraud-Detection-AI
-AI Training to detect fraud activity from historical credit card data
+Binary classification model to detect frayd transactions using logistic regression, random forest, and SMOTE oversampling. 
+
+Dataset: Kaggle - Credit Card Fraud Deteciton 
+
+## Structure
+- 'requirements.txt'
+- 'linear_regression_model.py'
+- 'random_forest.py'
+- 'smote_balancer.py'
+- 'model/'
