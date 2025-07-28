@@ -9,3 +9,9 @@ Dataset: Kaggle - Credit Card Fraud Deteciton
 - 'random_forest.py'
 - 'smote_balancer.py'
 - 'model/'
+
+## to run
+'''bash
+pip install -r requirements.txt
+python random_forest.py
+python linear_regression_model.py
